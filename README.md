@@ -122,6 +122,7 @@ Meerut Road Industrial Area
 Ghaziabad, Uttar Pradesh – 201001, India
 
 Phone: +91-120-2701600
-Website: www.attritechmachines.com
 
-Email: attritechmachines@gmail.com
+Website: [www.attritechmachines.com](www.attritechmachines.com)
+
+Email: [attritechmachines@gmail.com](attritechmachines@gmail.com)
